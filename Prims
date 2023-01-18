@@ -68,3 +68,4 @@ int main() {
 
     return 0;
 }
+#Prims dosent work for directed graph .
