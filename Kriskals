@@ -55,3 +55,4 @@ int main() {
 
     return 0;
 }
+#dosent work for diected graph, works for negative graphs.
